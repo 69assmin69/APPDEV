@@ -1,3 +1,3 @@
-#define SERVER_URL "http://www.cc.puv.fi/~e1601116/sound.php"
+#define SERVER_URL "https://bunnies.hopto.org/pqhuy98/Rasp/sound.php"
 
 void send_post(char* url, char* post_data);

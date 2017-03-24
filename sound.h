@@ -30,7 +30,7 @@ typedef struct{
 
 #define SAMPLE_RATE 16000
 #define PI 3.14159265359
-
+#define DEBUG 1
 // Function prototypes
 
 void dispWAVHDR(WAVHDR);
